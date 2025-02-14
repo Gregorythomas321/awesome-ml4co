@@ -1,6 +1,6 @@
 
 
-# Awesome Machine Learning for Combinatorial Optimization Resources
+# Awesome Machine Learning for Combinatorial Optimization Resource
 We would like to maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems.
 
 We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
